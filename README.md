@@ -1,6 +1,6 @@
 # streams_controllers
 
-A new Flutter project.
+This is a two flutter examples for using streams and stream controllers and showing how to use them in a simple way. I hope you like it.
 
 ## Getting Started
 
