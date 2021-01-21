@@ -2,6 +2,8 @@
 
 This is a two flutter examples for using streams and stream controllers and showing how to use them in a simple way. I hope you like it.
 
+Important Note: The whole idea belongs to Mr.Ahmed from Youtube channel [عالم البرمجة]https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
