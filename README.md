@@ -3,7 +3,7 @@
 This is a two flutter examples for using streams and stream controllers and showing how to use them in a simple way. I hope you like it.
 
 Important Note: I learnt the idea from Mr.Ahmed and his Youtube channel:
-- [عالم البرمجة](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA).
+- [عالم البرمجة](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
 
 ## Getting Started
 
